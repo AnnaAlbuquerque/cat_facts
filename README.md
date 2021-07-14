@@ -1,16 +1,22 @@
-# cat_facts
+# Cat Facts
 
-A new Flutter project.
+A Flutter project done during Raro Academy course, as an extra assignment (LevelUp Extra)
 
-## Getting Started
+## About the application
 
-This project is a starting point for a Flutter application.
+This project consists of a page that shows a different cat fact each time a button is pressed.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./images/cat-facts.gif" height = "500">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+All the facts information shown in the application are consumed from an API called Cat Facts (link to it on the section "Extra Information").
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## To Do
+- [ ] Tests on different size screens
+- [ ] Tests on iOs devices
+
+
+## Extra Information
+- API [Cat Facts](https://catfact.ninja/)
+- Some extra documentation from the API can be found [here](https://documenter.getpostman.com/view/1946054/S11HvKSz)
+
+
